@@ -1,4 +1,4 @@
-# test_db
+# test_d
 A sample database with an integrated test suite, used to test your applications and database servers
 
 This repository was migrated from [Launchpad](https://launchpad.net/test-db).
